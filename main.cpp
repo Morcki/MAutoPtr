@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<iostream>
 #include <queue>
-#include "test.h"
+#include "STDautoptr.h"
 using namespace std;
 int main(int argc, char *args[]) 
 {
